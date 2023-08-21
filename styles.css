@@ -1,2 +1,36 @@
 
 /* Your CSS Code here. */
+.box{
+	display:flex;
+	justify-content:space-between;	
+	flex-wrap:wrap;
+	font-size:50px
+}
+.box1{
+	height:100px;
+	width:100px;
+	background-color:red;
+}
+.box2{
+	height:100px;
+	width:100px;
+	background-color:green;
+}
+.box2{	
+	height:100px;
+	width:100px;
+	background-color:blue;
+}
+.box3{
+	padding-top:10px;
+	height:100px;
+	width:100px;
+	background-color:green;
+}
+.box4{
+	height:100px;
+	width:100px;
+	background-color:green;
+}
+
+
